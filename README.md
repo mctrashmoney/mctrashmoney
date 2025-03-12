@@ -27,6 +27,3 @@ Currently working on projects in **data visualization, analytics, and digital ma
 
 - 📈 **Expanding My Data Skills** – Learning **Power BI** & enhancing **Tableau** dashboards as well as learning more about optimizations for **neural networks**.
 - 🔍 **Job Search** – Looking for opportunities in **data analysis**.
-
----
-
