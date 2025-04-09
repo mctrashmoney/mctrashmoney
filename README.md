@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm @mctrashmoney!
+### 👋 Hi there!
 
 I'm a **data analyst** and **communications specialist** blending storytelling with numbers. 📊📝\
 Currently working on projects in **data visualization, analytics, and digital marketing**.
@@ -26,4 +26,3 @@ Currently working on projects in **data visualization, analytics, and digital ma
 ### 🚀 What I'm Working On
 
 - 📈 **Expanding My Data Skills** – Learning **Power BI** & enhancing **Tableau** dashboards as well as learning more about optimizations for **neural networks**.
-- 🔍 **Job Search** – Looking for opportunities in **data analysis**.
