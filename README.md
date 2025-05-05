@@ -9,7 +9,6 @@ Currently working on projects in **data visualization, analytics, and digital ma
 
 - 🎯 **Data & Insights Enthusiast** – I love uncovering trends and making data-driven decisions.
 - 🎨 **Creative Communicator** – Passionate about combining analytics with engaging content.
-- 🌍 **Exploring Career Opportunities** – Seeking data and marketing roles in **Spain & the US**.
 
 ---
 
